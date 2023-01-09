@@ -1,0 +1,17 @@
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoadingPage.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.User.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageAccount.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Order.resources
+C:\Users\laoxi\Documents\Programming Study\C#\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.OrderHistory.resources
